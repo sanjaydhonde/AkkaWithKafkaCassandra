@@ -1,4 +1,4 @@
-# AkkaWithKafkaCassandra
+# Akka With Kafka and Cassandra
 This is a sample POC created using AKKA, Kafka and Cassandra.
 
 ### Following AKKA Actors are created in this sample:
